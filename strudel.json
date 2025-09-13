@@ -2,5 +2,7 @@
 "_base": "https://raw.githubusercontent.com/RikyBac15/samples/main/",
  "space-kick": "space_kick.wav",
  "super-bass": "super_bass.wav",
- "super-bass-short": "super_bass_short.wav"
+ "super-bass-short": "super_bass_short.wav",
+ "space-fx": "space_fx.wav",
+ "brass": "brass.wav"
 }
